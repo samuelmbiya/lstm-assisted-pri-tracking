@@ -6,6 +6,6 @@ The predictive capability of RNN-based machine learning models can be leveraged 
 
 ## Hypothesis
 
-If PRI patterns are correctly modelled, RNN-assisted PRI tracking can be a suitable basis for online pulse deinterleaving. Additionally, if sufficient training pulse TOA
+If PRI patterns are correctly modelled, RNN-assisted PRI tracking can be a suitable basis for pulse deinterleaving. Additionally, if sufficient training pulse TOA
 data is available, an RNN-based ML model can be trained and used to improve the TOA prediction process during PRI tracking. This will be especially useful for pulsed signals
 using staggered or jittered PRI patterns because the PRI between pulse TOAs constantly changes.
